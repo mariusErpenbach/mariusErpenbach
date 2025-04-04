@@ -1,6 +1,6 @@
 ### Welcome to my Profile. :-)
 
-I'm currently working on my website www.erp-it.net
+I'm currently working on my blog www.erp-it.net/blog
 
 <!--
 **mariusErpenbach/mariusErpenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
