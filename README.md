@@ -3,7 +3,7 @@
 I'm currently working on:
 
 - my blog "www.erp-it.net/blog"
-- ERP/CMS System "Percura"
+- ERP/CMS System "Percuro"
 
 
 <!--
